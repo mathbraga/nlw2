@@ -1,0 +1,3 @@
+node_modules
+src/requests.Rest
+src/database/database.sqlite
