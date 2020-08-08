@@ -18,7 +18,7 @@ function Landing(){
             const { total } = res.data
             setTotalConnections(total);
         })
-    }, [])
+    }, []);
 
     return (
         <div id="page-landing">
